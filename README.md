@@ -1,8 +1,8 @@
 # Add Watermark To Images
 
-A simple program to put a watermark on a loaded image. The program uses Tkinter to display the GUI and the Pillow
-library for image processing. You can load your image, enter the selected text, adjust the position font style, size
-and color.
+The program is designed to apply a watermark to a loaded image. It uses Tkinter for GUI presentation and 
+the Pillow library for image processing. Users have the ability to upload an image, input desired text, 
+and customize parameters such as position, font style, size, and color.
 
 ### Requirements
 The program requires Python 3.x and the Pillow library to work.
